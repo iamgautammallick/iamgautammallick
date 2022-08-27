@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @iamgautammallick
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hello, I'm Gautam 
+I like to work on open source technologies or whatever is on the plate! I'm a passionate Site-reliability Engineer from India 🇮🇳  
+
+About me
+- 👀 I’m interested in learning new technologies. No matter what you learn it will help you some or other day, Every day is a learning for me.
+- 🌱 I’m currently learning Python, Kubernetes. Have to start from scratch again DS, Algo, Unix OS and Networking.
+- 📫 How to reach me [Linkedin] (https://www.linkedin.com/in/gautam-mallick/)
+- 💬 Ask me about anything. Always happy to help
+- My humble [website] (https://www.gautammallick.com)
+
 
 <!---
 iamgautammallick/iamgautammallick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
