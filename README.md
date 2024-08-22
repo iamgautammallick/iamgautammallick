@@ -7,6 +7,8 @@ About me
 - 📫 How to reach me [[Linkedin](https://www.linkedin.com/in/gautam-mallick/)].
 - 💬 Ask me about anything. More than happy to help
 - My humble [[website](https://www.gautammallick.com)].
+- My Blog [[website](https://gautammallick.hashnode.dev)].
+
 
 
 <!---
